@@ -1,5 +1,4 @@
 # Scilab-spoken-tutorial
 
-4. [Getting Started][xad]
 
-  [xad]: Notes/3.Getting%20Started.md 
+3. [Getting Started](https://github.com/PirateKing19902016/Scilab-spoken-tutorial/edit/master/README.md)
